@@ -1,3 +1,4 @@
+// ignore_for_file: avoid_print
 // ExploraEC — Sesión 2: punto de entrada alternativo, solo para practicar
 // ContadorDemo sin tocar lib/main.dart (que sigue siendo ExploraEC).
 // Ejecutar con: flutter run -t lib/playground/contador_demo_main.dart
